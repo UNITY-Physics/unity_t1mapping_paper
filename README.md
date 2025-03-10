@@ -2,8 +2,10 @@
 
 This repository contains the code to reproduce the figures in the paper "Repeatability and reproducibility of rapid T1 mapping of brain tissues at 64 mT: a multicentre study" (in preparation). Original source data is not shared, but compiled results in form of .csv files are shared in here.  
 
+
 # Tabular Data 
-The data are categorized into three groups: reproducibility in the phantom study, repeatability at a single site (both for phantom and in vivo studies), and reproducibility in vivo across different sites.
+The data in this project have been collected from 6 sites: Cardiff (United Kingdom), Leiden (the Netherlands), London 1 and London 2 (United Kingdom), Lund (Sweden), Vancouver (Canada).  
+The data are categorized into three groups: reproducibility in the phantom study, repeatability at a single site (both for phantom and in vivo studies), and reproducibility in vivo across different sites.  
 : contains the T1 values measured in the phantom from each site (3 repetitions per site);  
 : contains the T1 values measured in phantom and in vivo data at six time points in one site;  
 : contains the T1 values measured in vivo in 10 volunteers per site (2 repetitions per volunteer);  
